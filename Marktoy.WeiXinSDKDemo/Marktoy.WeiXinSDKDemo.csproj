@@ -11,8 +11,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Loogn.WeiXinSDKDemo</RootNamespace>
-    <AssemblyName>Loogn.WeiXinSDKDemo</AssemblyName>
+    <RootNamespace>Marktoy.WeiXinSDKDemo</RootNamespace>
+    <AssemblyName>Marktoy.WeiXinSDKDemo</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <UseIISExpress>false</UseIISExpress>
     <FileUpgradeFlags>
@@ -90,7 +90,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Loogn.WeiXinSDK\Marktoy.WeiXinSDK.csproj">
+    <ProjectReference Include="..\Marktoy.WeiXinSDK\Marktoy.WeiXinSDK.csproj">
       <Project>{F62BEA6A-7819-4EDE-8683-B1B52ABBC765}</Project>
       <Name>Marktoy.WeiXinSDK</Name>
     </ProjectReference>

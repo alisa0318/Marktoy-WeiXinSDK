@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Marktoy.WeiXinSDK\Loogn.WeiXinSDK.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Loogn.WeiXinSDK\Message\SendTmplMsg.cs">
+    <Files>
+      <File FileName="Marktoy.WeiXinSDK\Message\EventAttendMsg.cs" Line="5" Column="12" />
+      <File FileName="Marktoy.WeiXinSDK\Message\EventBaseMsg.cs" Line="1" Column="1" />
+      <File FileName="Marktoy.WeiXinSDK\Message\EventMassSendJobFinishMsg.cs" Line="1" Column="1" />
+      <File FileName="Marktoy.WeiXinSDK\Message\SendTmplMsg.cs" Line="18" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

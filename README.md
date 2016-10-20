@@ -1,10 +1,9 @@
 weixinsdk
 =========
-  
+    
+    //作者:Marktoy  
     //作者联系方法：
-    //email:loogn_0707@126.com
-    //QQ群:153725186
-    //支付宝:loogn2012@gmail.com (开源免费，欢迎资助~)
+    //email:yanbeike520@163.com
 
 微信公开帐号接口
 
